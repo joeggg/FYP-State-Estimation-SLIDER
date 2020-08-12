@@ -1,0 +1,3 @@
+rosrun rqt_plot rqt_plot /state/output/error /state/test/error /state/interpolator/error /state/orb_slam/error
+
+rosrun rqt_plot rqt_plot /state/output/mse /state/test/mse /state/interpolator/mse /state/orb_slam/mse
